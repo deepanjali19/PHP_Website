@@ -1,0 +1,32 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="../CSS/menu.css">
+</head>
+<body>
+
+<ul style="padding-top:40px;">
+	<div class="dropdown">
+	<a href="~/../../index.html" class="dropbtn">Home</a>
+	 </div>
+  <div class="dropdown">
+  <a href="#" class="dropbtn">Labs</a>
+  <div class="dropdown-content">
+	  <a href="../labs/lab1.php">Lab 1</a>
+      <a href="../labs/lab2.php">Lab 2</a>
+      <a href="../labs/lab3.php">Lab 3</a>
+	  <a href="#">Lab 4</a>
+      <a href="#">Lab 5</a>
+      <a href="#">Lab 6</a> </div>
+	  </div>
+	  <div class="dropdown">
+  <a href="#" class="dropbtn">Assignments</a>
+  <div class="dropdown-content">
+    <a href="#">Assignment 1</a>
+    <a href="#">Assignment 2</a>
+    <a href="#">Assignment 3</a>
+	  </div>
+	  </div>
+</ul>
+
+</body>
+</html>
